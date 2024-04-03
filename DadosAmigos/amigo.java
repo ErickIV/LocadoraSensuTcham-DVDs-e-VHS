@@ -27,13 +27,6 @@ public class Amigo {
         return endereco;
     }
 
-    @Override
-    public String toString() {
-        return "Amigo{" +
-                "nome='" + nome + '\'' +
-                ", telefone=" + telefone +
-                ", email='" + email + '\'' +
-                ", endereco='" + endereco + '\'' +
-                '}';
+
     }
 }
